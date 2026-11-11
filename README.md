@@ -1,19 +1,10 @@
+<!-- ========== ANIMATED HEADER ========== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00B4DB&height=220&section=header&text=Bhanu%20Prakash%20Reddy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Artificial%20Intelligence%20%26%20Machine%20Learning&descSize=13&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhanu%20Prakash%20Reddy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20GenAI%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+RAG+Developer;Building+Practical+AI+Applications" />
-
-<br/>
-
-<a href="https://github.com/bhanu-123bhanu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:ponkalabhanuprakashreddy@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Generative+AI+Enthusiast;Python+Developer;Learning+RAG+%26+AI+Agents;Building+Real+World+AI+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -21,14 +12,24 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Bhanu Prakash Reddy**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
+Hello! I'm **P. BhanuPrakash Reddy** 👋
 
-- 🎓 B.Tech CSE – Artificial Intelligence & Machine Learning.
-- 💻 Programming with Python and Java (Basics).
-- 🤖 Interested in Generative AI and Machine Learning.
-- 🧠 Exploring Retrieval-Augmented Generation (RAG).
-- 🚀 Building AI-powered applications and software projects.
-- 🌱 Continuously learning and improving my development skills.
+🎓 B.Tech Computer Science Engineering – AI & ML (2027)
+
+🤖 Interested in Artificial Intelligence and Generative AI.
+
+💻 I enjoy building real-world applications using Python and AI technologies.
+
+🌱 Currently learning:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain and LangGraph
+- AI Agents and Agentic AI
+- FastAPI and Backend Development
+
+🎯 Career Goal: Become an AI / GenAI Engineer.
+
+⚡ I believe in learning by building projects!
 
 ---
 
@@ -36,126 +37,130 @@ Hello! I'm **Bhanu Prakash Reddy**, a Computer Science undergraduate specializin
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### AI & Machine Learning
+### AI / Machine Learning / GenAI
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RNN-6741D9?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### Frameworks & Tools
+### Frameworks and Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,streamlit,git,github,vscode,html,css"/>
-</p>
-
-### Databases & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyPDF-333333?style=for-the-badge"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwind,mongodb,mysql,git,github,vscode" />
+<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. 🏥 Health Report Explainer & Healthcare Information Assistant
+### 1. Health Report Explainer & Healthcare Information Assistant
 
-An AI-powered application designed to help users understand medical reports by converting complex medical terminology into simple explanations.
+- AI-powered healthcare report explanation system.
+- Uses RAG to retrieve relevant medical reference information.
+- Gemini API for natural-language explanations.
+- Supports explanations in regional languages.
 
-**Key Features**
-- Extracts text from PDF and image reports.
-- Uses OCR and PDF processing techniques.
-- Implements RAG for retrieving relevant medical information.
-- Uses Google Gemini for generating explanations.
-- Supports multilingual explanations.
+**Tech:** Python, FastAPI, RAG, Gemini, ChromaDB
 
-**Tech Stack:** Python | RAG | PyPDF | Sentence Transformers | ChromaDB | Google Gemini API
+### 2. Blockchain and SHA-256 Based Secure Cloud Document Management
 
----
+- Secure document upload and verification.
+- AES encryption and SHA-256 integrity checking.
+- Blockchain-style audit records.
+- User authentication and document management.
 
-### 02. 😷 Face Mask Detection System
+**Tech:** Python, FastAPI, React, MongoDB, AES, SHA-256
 
-An end-to-end deep learning application that detects whether a person is wearing a face mask.
+### 3. AI PDF Question Answering System
 
-**Key Features**
-- CNN-based image classification.
-- Custom labeled dataset training.
-- Real-time webcam detection.
-- Bounding box visualization.
-- Streamlit dashboard for live monitoring.
-- Deployment using Streamlit Cloud.
+- Upload PDF documents and ask questions.
+- Retrieves relevant document chunks.
+- Generates answers using an LLM.
+- Uses vector search with ChromaDB.
 
-**Tech Stack:** Python | TensorFlow | Keras | OpenCV | CNN | Streamlit
+**Tech:** Python, Streamlit, ChromaDB, Sentence Transformers, Groq API
 
----
+### 4. Sanitary Map AI
 
-### 03. 🔐 Blockchain & SHA-256 Based Secure Cloud Document Management and Integrity Verification System
+- Map-based location and information application.
+- Interactive map with geolocation.
+- Backend APIs and database integration.
 
-A secure document management application designed to protect digital documents from unauthorized access and tampering.
+**Tech:** React, FastAPI, MongoDB, Leaflet, OpenStreetMap
 
-**Key Features**
-- Secure document uploading.
-- SHA-256 hash generation.
-- Document integrity verification.
-- Blockchain-based recording of document information and timestamps.
-- Identification of original and tampered documents.
-
-**Tech Stack:** Python | SHA-256 | Blockchain | Encryption
+> Add your actual repository links to these projects after uploading them to GitHub.
 
 ---
 
-## 📊 GitHub Profile
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhanu-123bhanu&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhanu-123-bhanu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-123bhanu&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-123-bhanu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=bhanu-123-bhanu&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Application Development
-- Machine Learning and Deep Learning
-
----
-
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/bhanu-123bhanu">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanu-123-bhanu&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bhanu-123-bhanu/bhanu-123-bhanu/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" >
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:ponkalabhanuprakashreddy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/bhanu-123-bhanu">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-<br/><br/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Building | Learning | Innovating with AI**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:243B55,100:141E30&height=110&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### 💡 "Learning, Building, and Innovating with AI."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
